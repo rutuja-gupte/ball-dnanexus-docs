@@ -9,6 +9,7 @@
 git clone https://github.com/lh3/bwa.git
 cd bwa; make
 export PATH="/home/dnanexus/bwa:$PATH"
+cd ..
 ```
 
 #### Samtools
