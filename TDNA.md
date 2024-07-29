@@ -1,4 +1,7 @@
 ﻿# TDNAscan
+Author: Rutuja Gupte  
+
+These are the important bits from their guides. The complete guide is linked at the bottom.
 
 ## Downloads
 
@@ -23,6 +26,8 @@ This should already be installed but we just need an extra package to make the c
 ```
 sudo apt install python-is-python3
 ```
+
+
 ### Actual software
 
 ```
@@ -42,3 +47,9 @@ python tdnascan.py -1 R1.fastq.gz -2 R2.fastq.gz -t plasmid.fasta -g ref.fasta -
 ```
 
 -@ for threads
+
+## Citation
+
+Sun, Liang, et al. ["TDNAscan: A Software to Identify Complete and Truncated T-DNA Insertions."](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2019.00685/full) Frontiers in Genetics (2019),doi: 10.3389/fgene.2019.00685
+
+[GitHub and instructions](https://github.com/BCH-RC/TDNAscan)
