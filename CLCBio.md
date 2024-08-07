@@ -2,11 +2,11 @@
 
 This is a quick runthrough for processing Sanger data and making a phylogenetic tree
 
-[Import Data](## Import Data)
-[Trim reads to fixed length](## Trim reads to fixed length)
-[Align reads](## Align reads)
-[Make tree](## Make tree)
-[View tree and save tree](## View tree and save tree)
+[Import Data](#import-data)
+[Trim reads to fixed length](#trim-reads-to-fixed-length)
+[Align reads](#align-reads)
+[Make tree](#make-tree)
+[View tree and save tree](#view-tree-and-save-tree)
 
 ## Import Data
 
