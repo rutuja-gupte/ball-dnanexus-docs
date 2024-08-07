@@ -1,6 +1,6 @@
 # CLCBio
 
-This is a quick runthrough for processing Sanger data and making a phylogenetic tree
+This is a quick runthrough for processing Sanger data and making a phylogenetic tree. The complete user manual is linked at the bottom.
 
   - [Import Data](#import-data)  
   - [Trim reads to fixed length](#trim-reads-to-fixed-length)  
@@ -57,3 +57,8 @@ This is a quick runthrough for processing Sanger data and making a phylogenetic 
 ![](images/view14.jpg)
 ![](images/view15.jpg)
 ![](images/view16.jpg)
+
+## Citations
+
+QIAGEN CLC Genomics Workbench [https://digitalinsights.qiagen.com](https://digitalinsights.qiagen.com)
+[User manual](https://resources.qiagenbioinformatics.com/tutorials/Phylogeny-module-visualization-of-Trees-and-Metadata.pdf)
