@@ -4,7 +4,7 @@ This is a quick runthrough for processing Sanger data and making a phylogenetic 
 
 ## Import Data
 
-[](./images/import1.jpg)
+![](images/import1.jpg)
 [](images/import2.jpg)
 [](images/import3.jpg)
 [](images/import4.jpg)
